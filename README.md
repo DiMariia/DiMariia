@@ -2,7 +2,7 @@
 
 <p>I am an enthusiastic frontend developer. Worked on projects of varying complexity.<br />Quickly learn and adapt to new conditions, easily find common language with team members.<br />Able to see the big picture and have a systematic approach to problem solving.</p>
 <hr />
-<br />
+
 
 ### Reach me 🔗
 
