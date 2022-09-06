@@ -4,7 +4,7 @@
 <br />
 <br />
 
-###Reach me 🔗
+### Reach me 🔗
 <br />
 
 <a href="https://www.instagram.com/_mari__di/">
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-###GitHub Stats 💫
+### GitHub Stats 💫
 <br />
 
 
