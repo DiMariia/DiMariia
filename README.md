@@ -16,6 +16,9 @@
 <a href="mailto:mdidenko27@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://firebasestorage.googleapis.com/v0/b/pc-configurator-73fdc.appspot.com/o/DiMariia%2Fgmail.svg?alt=media&token=1b5a962b-70e5-41e8-9a27-ed0ee2fc0e72" />
 </a>
+<a href="https://firebasestorage.googleapis.com/v0/b/pc-configurator-73fdc.appspot.com/o/DiMariia%2FCV_Mariia%20Didenko.pdf?alt=media&token=5a3d838c-0155-4238-9189-4bec35d260f7">
+  <img align="left" alt="Email" width="22px" src="https://firebasestorage.googleapis.com/v0/b/pc-configurator-73fdc.appspot.com/o/DiMariia%2Fcv-file-interface-symbol-svgrepo-com.svg?alt=media&token=9494cea4-5cc6-4d96-b9ca-e5970a5423c6" />
+</a>
 
 <br />
 <br />
